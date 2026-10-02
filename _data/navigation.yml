@@ -1,0 +1,16 @@
+# main links links
+main:
+  - title: "Team"
+    url: /team/
+
+  - title: "Publications"
+    url: /publications/
+    
+  - title: "Scientific Events"
+    url: /scientific_events/
+
+  - title: "Gallery"
+    url: /gallery/
+  
+  - title: "Students"
+    url: /students/
