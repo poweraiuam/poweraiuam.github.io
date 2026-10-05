@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Cátedra ENIA UAM-VERIDAS"
+title                    : "PowerAI+"
 title_separator          : "-"
-name                     : &name "Cátedra ENIA UAM-VERIDAS"
-description              : &description "Cátedra ENIA UAM-VERIDAS en IA Responsable (Code: TSI-100927-2023-2)"
+name                     : &name "PowerAI+"
+description              : &description "PowerAI+: Empowering AI Technologies through Large Language/Vision Models and Generative AI with Applications to Security, Health and Human Behavior (Code: SI4/PJI/2024-00062) "
 url                      : https://poweraiuam.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "catedraeniauam/poweraiuam.github.io"
