@@ -11,10 +11,6 @@ Principal Investigators
   <tbody>
     <tr>
       <td width="50%">
-          <p align="center"><img class="img-50" src="https://catedraeniauam.github.io/images/2020_Fierrez.jpg"></p>
-          <p align="center"><a class="nombre" href="https://biometrics.eps.uam.es/fierrez/index.php">Julian Fierrez</a></p>
-      </td>
-      <td width="50%">
           <p align="center"><img class="img-50" src="https://catedraeniauam.github.io/images/Tolosana.jpg"></p>
           <p align="center"><a class="nombre" href="https://rubentolosana.github.io/">Ruben Tolosana</a></p>
       </td>
@@ -29,56 +25,42 @@ Research Members
   <tbody>
     <tr>
       <td width="33%">
-          <p align="center"><img class="img-70" src="https://catedraeniauam.github.io/images/Ortega.png"></p>
-          <p align="center"><a class="nombre" href="https://scholar.google.es/citations?user=LwiecBYAAAAJ&hl=en">Javier Ortega-Garcia</a></p>
-      </td>
-      <td width="33%">
           <p align="center"><img class="img-70" src="https://catedraeniauam.github.io/images/Morales.jpg"></p>
           <p align="center"><a class="nombre" href="https://aythami.me/">Aythami Morales</a></p>
       </td>
       <td width="33%">
           <p align="center"><img class="img-70" src="https://catedraeniauam.github.io/images/Vera.jpg"></p>
-          <p align="center"><a class="nombre" href="https://scholar.google.es/citations?user=KYMQ0tsAAAAJ&hl=en">Ruben Vera-Rodriguez</a></p>
+          <p align="center"><a class="nombre" href="https://scholar.google.es/citations?user=KYMQ0tsAAAAJ&hl=es">Ruben Vera-Rodriguez</a></p>
+      </td>
+      <td width="33%">
+          <p align="center"><img class="img-70" src="https://catedraeniauam.github.io/images/eva_garrosa_h.jpeg"></p>
+          <p align="center"><a class="nombre" href="https://scholar.google.com/citations?user=5nG3RcoAAAAJ&hl=es">Eva Garrosa Hernandez</a></p>
       </td>
     </tr>
     <tr>
       <td width="33%">
-          <p align="center"><img class="img-70" src="https://catedraeniauam.github.io/images/ruth_cobos.jpg"></p>
-          <p align="center"><a class="nombre" href="https://scholar.google.es/citations?user=zaQzxsYAAAAJ&hl=en">Ruth Cobos</a></p>
+          <p align="center"><img class="img-70" src="https://catedraeniauam.github.io/images/Enrique_santa_pau.jpg"></p>
+          <p align="center"><a class="nombre" href="https://scholar.google.com/citations?user=lQff7nQAAAAJ&hl=es">Enrique Carrillo de Santa Pau</a></p>
       </td>
       <td width="33%">
           <p align="center"><img class="img-70" src="https://catedraeniauam.github.io/images/monica_suarez.jpg"></p>
-          <p align="center"><a class="nombre" href="https://scholar.google.es/citations?user=UarrGOIAAAAJ&hl=en">Mónica Gómez Suárez</a></p>
+          <p align="center"><a class="nombre" href="https://scholar.google.es/citations?user=UarrGOIAAAAJ&hl=es">Mónica Gómez Suárez</a></p>
       </td>
       <td width="33%">
-          <p align="center"><img class="img-70" src="https://catedraeniauam.github.io/images/angela_fernandez.jpg"></p>
-          <p align="center"><a class="nombre" href="https://scholar.google.es/citations?user=c3LIz3kAAAAJ&hl=en">Ángela Fernández Pascual</a></p>
+          <p align="center"><img class="img-70" src="https://catedraeniauam.github.io/images/luis_manuel_b.jpeg"></p>
+          <p align="center"><a class="nombre" href="https://scholar.google.com/citations?user=t2F_8CUAAAAJ&hl=es">Luis Manuel Blanco-Donoso</a></p>
       </td>
     </tr>
     <tr>
       <td width="33%">
-          <p align="center"><img class="img-70" src="https://catedraeniauam.github.io/images/estrella_pulido.jpg"></p>
-          <p align="center"><a class="nombre" href="https://portalcientifico.uam.es/es/ipublic/researcher/259312">Estrella Pulido Cañabate</a></p>
+          <p align="center"><img class="img-70" src="https://catedraeniauam.github.io/images/Luis_Jesús_Jiménez_Borreguero.png"></p>
+          <p align="center"><a class="nombre" href="https://scholar.google.com/citations?user=gS_53HMAAAAJ&hl=en">Luis Jesus Jimenez-Borreguero</a></p>
       </td>
       <td width="33%">
-          <p align="center"><img class="img-70" src="https://catedraeniauam.github.io/images/ainoha_herrarte.jpg"></p>
-          <p align="center"><a class="nombre" href="https://sites.google.com/view/ainhoaherrarte/home">Ainhoa Herrarte Sánchez</a></p>
+          <p align="center"><img class="img-70" src="https://catedraeniauam.github.io/images/Guillermo Ortega.jpg"></p>
+          <p align="center"><a class="nombre" href="https://scholar.google.es/citations?user=J8ICK44AAAAJ&hl=es">Guillermo J. Ortega</a></p>
       </td>
       <td width="33%">
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-PostDoc
------
-
-<table>
-  <tbody>
-    <tr>
-      <td>
-          <p align="center"><img class="img-25" src="https://catedraeniauam.github.io/images/Luis felipe.png"></p>
-          <p align="center"><a class="nombre" href="https://scholar.google.com/citations?user=Nq3NyHYAAAAJ&hl=en">Luis Felipe Gómez-Gómez</a></p>
       </td>
     </tr>
   </tbody>
@@ -99,8 +81,8 @@ PhD Students
           <p align="center"><a class="nombre" href="https://www.linkedin.com/in/laurapedrouzo/">Laura Pedrouzo-Rodriguez</a></p>
       </td>
       <td width="33%">
-          <p align="center"><img class="img-70" src="https://catedraeniauam.github.io/images/Javier Irigoyen.jpg"></p>
-          <p align="center"><a class="nombre" href="">Javier Irigoyen</a></p>
+          <p align="center"><img class="img-70" src="https://catedraeniauam.github.io/images/ivan_2024.jpeg"></p>
+          <p align="center"><a class="nombre" href="https://scholar.google.com/citations?user=4ulTK3wAAAAJ&hl=es">Ivan DeAndres-Tame</a></p>
       </td>
     </tr>
     <tr>
@@ -109,8 +91,8 @@ PhD Students
           <p align="center"><a class="nombre" href="https://www.linkedin.com/in/marta-robledo-moreno/">Marta Robledo-Moreno</a></p>
       </td>
       <td width="33%">
-          <p align="center"><img class="img-70" src="https://catedraeniauam.github.io/images/miguel phd.jpg"></p>
-          <p align="center"><a class="nombre" href="https://scholar.google.es/citations?user=tGNzY0EAAAAJ&hl=es&oi=ao">Miguel López</a></p>
+          <p align="center"><img class="img-70" src="https://catedraeniauam.github.io/images/sergio.png"></p>
+          <p align="center"><a class="nombre" href="https://scholar.google.es/citations?user=fjh1KJUAAAAJ&hl=es&oi=ao">Sergio Romero-Tapiador</a></p>
       </td>
       <td width="33%">
       </td>
