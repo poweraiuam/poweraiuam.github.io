@@ -5,12 +5,6 @@ main:
 
   - title: "Publications"
     url: /publications/
-    
-  - title: "Scientific Events"
-    url: /scientific_events/
 
   - title: "Gallery"
     url: /gallery/
-  
-  - title: "Students"
-    url: /students/
