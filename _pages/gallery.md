@@ -14,7 +14,7 @@ ICPR 2026, Lyon, France (August 2026)
 
 IEEE CAIw 2026, Granada, Spain (May 2026)
 -----
-- Presenting our research and technology at <a href="https://www.ieeesmc.org/cai-2026/">IEEE Conference on Artificial Intelligence Workshops</a>. We got three papers accepted: <a href="https://arxiv.org/abs/2603.08235">"Exploring Deep Learning and Ultra-Widefield Imaging for Diabetic Retinopathy and Macular Edema"</a>, <a href="https://arxiv.org/abs/2603.25673">"Longitudinal Digital Phenotyping for Early Cognitive-Motor Screening"</a>, and <a href="https://arxiv.org/abs/2503.07384">"Is My Text in Your AI Model? Gradient-based Membership Inference Test applied to LLMs"</a>.
+- Presenting our research and technology at <a href="https://www.ieeesmc.org/cai-2026/">IEEE Conference on Artificial Intelligence Workshops</a>. We got two papers accepted: <a href="https://arxiv.org/abs/2603.08235">"Exploring Deep Learning and Ultra-Widefield Imaging for Diabetic Retinopathy and Macular Edema"</a>, <a href="https://arxiv.org/abs/2603.25673">"Longitudinal Digital Phenotyping for Early Cognitive-Motor Screening"</a>.
 
 <img src="https://poweraiuam.github.io/images/iee_cai_2026.jpg" align="center" width="1000"/>
 
